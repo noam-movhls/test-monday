@@ -1,11 +1,1 @@
-print("hello world noamy")
-
-print("hey")
-
-
-
-
-print("zivoy")
-print("zivoy1")
-print("zivoy2")
-
+print("New Work flow Demo")
